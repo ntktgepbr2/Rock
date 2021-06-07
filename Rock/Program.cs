@@ -21,6 +21,7 @@ namespace Rock
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+
                 });
     }
 }
