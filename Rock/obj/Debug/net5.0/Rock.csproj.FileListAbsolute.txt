@@ -323,7 +323,6 @@ C:\Users\playm\source\repos\Rock\Rock\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis
 C:\Users\playm\source\repos\Rock\Rock\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\playm\source\repos\Rock\Rock\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\playm\source\repos\Rock\Rock\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\playm\source\repos\Rock\Rock\obj\Debug\net5.0\Rock.csprojAssemblyReference.cache
 C:\Users\playm\source\repos\Rock\Rock\obj\Debug\net5.0\Rock.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\playm\source\repos\Rock\Rock\obj\Debug\net5.0\Rock.AssemblyInfoInputs.cache
 C:\Users\playm\source\repos\Rock\Rock\obj\Debug\net5.0\Rock.AssemblyInfo.cs
@@ -435,3 +434,6 @@ C:\Users\playm\source\repos\Rock\Rock\obj\Debug\net5.0\Razor\Views\ApplicationTy
 C:\Users\playm\source\repos\Rock\Rock\obj\Debug\net5.0\Razor\Views\ApplicationType\Create.cshtml.g.cs
 C:\Users\playm\source\repos\Rock\Rock\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
 C:\Users\playm\source\repos\Rock\Rock\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
+C:\Users\playm\Source\Repos\Rock\Rock\obj\Debug\net5.0\Rock.csproj.AssemblyReference.cache
+C:\Users\playm\Source\Repos\Rock\Rock\obj\Debug\net5.0\Razor\Views\ApplicationType\Delete.cshtml.g.cs
+C:\Users\playm\Source\Repos\Rock\Rock\obj\Debug\net5.0\Razor\Views\ApplicationType\Edit.cshtml.g.cs

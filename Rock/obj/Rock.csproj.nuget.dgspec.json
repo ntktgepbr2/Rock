@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\playm\\source\\repos\\Rock\\Rock\\Rock.csproj": {}
+    "C:\\Users\\playm\\Source\\Repos\\Rock\\Rock\\Rock.csproj": {}
   },
   "projects": {
-    "C:\\Users\\playm\\source\\repos\\Rock\\Rock\\Rock.csproj": {
+    "C:\\Users\\playm\\Source\\Repos\\Rock\\Rock\\Rock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\playm\\source\\repos\\Rock\\Rock\\Rock.csproj",
+        "projectUniqueName": "C:\\Users\\playm\\Source\\Repos\\Rock\\Rock\\Rock.csproj",
         "projectName": "Rock",
-        "projectPath": "C:\\Users\\playm\\source\\repos\\Rock\\Rock\\Rock.csproj",
+        "projectPath": "C:\\Users\\playm\\Source\\Repos\\Rock\\Rock\\Rock.csproj",
         "packagesPath": "C:\\Users\\playm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\playm\\source\\repos\\Rock\\Rock\\obj\\",
+        "outputPath": "C:\\Users\\playm\\Source\\Repos\\Rock\\Rock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\playm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -77,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
